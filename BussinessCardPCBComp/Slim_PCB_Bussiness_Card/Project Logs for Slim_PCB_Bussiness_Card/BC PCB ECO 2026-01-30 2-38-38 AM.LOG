@@ -1,0 +1,10 @@
+Added Component: Designator=STLinkV1(20021111-00014T1LF)
+Added Pin To Net: NetName=+3V3 Pin=STLinkV1-1
+Added Pin To Net: NetName=SWDIO Pin=STLinkV1-2
+Added Pin To Net: NetName=GND Pin=STLinkV1-3
+Added Pin To Net: NetName=SWCLK Pin=STLinkV1-4
+Added Pin To Net: NetName=GND Pin=STLinkV1-5
+Added Pin To Net: NetName=JTDO Pin=STLinkV1-6
+Added Pin To Net: NetName=JTDI Pin=STLinkV1-8
+Added Pin To Net: NetName=GND Pin=STLinkV1-9
+Added Member To Class: ClassName=Main Member=Component STLinkV1 20021111-00014T1LF

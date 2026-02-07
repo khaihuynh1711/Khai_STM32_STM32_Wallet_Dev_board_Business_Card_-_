@@ -1,0 +1,56 @@
+Added Component: Designator=U*(STM32H503)
+Added Pin To Net: NetName=+3V3 Pin=U*-1
+Added Pin To Net: NetName=NetR?_2 Pin=U*-2
+Added Pin To Net: NetName=OSC32_IN Pin=U*-3
+Added Pin To Net: NetName=OSC32_OUT Pin=U*-4
+Added Pin To Net: NetName=OSC_IN Pin=U*-5
+Added Pin To Net: NetName=OSC_OUT Pin=U*-6
+Added Pin To Net: NetName=NRST Pin=U*-7
+Added Pin To Net: NetName=GND Pin=U*-8
+Added Pin To Net: NetName=+3V3 Pin=U*-9
+Added Pin To Net: NetName=ADC1_INN1 Pin=U*-10
+Added Pin To Net: NetName=ADC1_INP1 Pin=U*-11
+Added Pin To Net: NetName=ADC1_INP4 Pin=U*-12
+Added Pin To Net: NetName=ADC1_INP15 Pin=U*-13
+Added Pin To Net: NetName=DAC1_OUT1 Pin=U*-14
+Added Pin To Net: NetName=DAC1_OUT2 Pin=U*-15
+Added Pin To Net: NetName=PA6 Pin=U*-16
+Added Pin To Net: NetName=A_INT2 Pin=U*-17
+Added Pin To Net: NetName=A_INT1 Pin=U*-18
+Added Pin To Net: NetName=Z_nRESET Pin=U*-19
+Added Pin To Net: NetName=Z_INTB Pin=U*-20
+Added Pin To Net: NetName=Z_INTA Pin=U*-21
+Added Pin To Net: NetName=GND Pin=U*-23
+Added Pin To Net: NetName=+3V3 Pin=U*-24
+Added Pin To Net: NetName=Z_SPI_nCS Pin=U*-25
+Added Pin To Net: NetName=SPI_CLK Pin=U*-26
+Added Pin To Net: NetName=SPI_MISO Pin=U*-27
+Added Pin To Net: NetName=SPI_MOSI Pin=U*-28
+Added Pin To Net: NetName=SPI_CS0 Pin=U*-29
+Added Pin To Net: NetName=UART_TX Pin=U*-30
+Added Pin To Net: NetName=UART_RX Pin=U*-31
+Added Pin To Net: NetName=USB_N Pin=U*-32
+Added Pin To Net: NetName=USB_P Pin=U*-33
+Added Pin To Net: NetName=SWDIO Pin=U*-34
+Added Pin To Net: NetName=GND Pin=U*-35
+Added Pin To Net: NetName=+3V3 Pin=U*-36
+Added Pin To Net: NetName=SWCLK Pin=U*-37
+Added Pin To Net: NetName=JTDI Pin=U*-38
+Added Pin To Net: NetName=JTDO Pin=U*-39
+Added Pin To Net: NetName=TX_CAN Pin=U*-40
+Added Pin To Net: NetName=RX_CAN Pin=U*-41
+Added Pin To Net: NetName=A_I2C_SCL Pin=U*-42
+Added Pin To Net: NetName=A_I2C_SDA Pin=U*-43
+Added Pin To Net: NetName=BOOT0 Pin=U*-44
+Added Pin To Net: NetName=BOOT1 Pin=U*-45
+Added Pin To Net: NetName=NetC?_1 Pin=U*-46
+Added Pin To Net: NetName=GND Pin=U*-47
+Added Pin To Net: NetName=+3V3 Pin=U*-48
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component C? 4.7uF
+Added Member To Class: ClassName=Main Member=Component C? 4.7uF
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component U* STM32H503

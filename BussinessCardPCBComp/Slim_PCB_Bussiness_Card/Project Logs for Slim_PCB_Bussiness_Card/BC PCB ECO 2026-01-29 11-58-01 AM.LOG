@@ -1,0 +1,133 @@
+Added Component: Designator=C?(Capacitor 0603)
+Added Component: Designator=C?(Capacitor 0603)
+Added Component: Designator=C?(Capacitor 0603)
+Added Component: Designator=C?(Capacitor 0603)
+Added Component: Designator=C?(Capacitor 0603)
+Added Component: Designator=C?(Capacitor 0603)
+Added Component: Designator=C?(Capacitor 0603)
+Added Component: Designator=D?(SMD_0603_LED)
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SMD_0603_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "0603 LED.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor 0603)
+Added Component: Designator=U*(STM32H503)
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=U*-1
+Added Pin To Net: NetName=+3V3 Pin=U*-9
+Added Pin To Net: NetName=+3V3 Pin=U*-24
+Added Pin To Net: NetName=+3V3 Pin=U*-36
+Added Pin To Net: NetName=+3V3 Pin=U*-48
+Added Net: Name=+3V3
+Added Pin To Net: NetName=A_I2C_SCL Pin=U*-42
+Added Net: Name=A_I2C_SCL
+Added Pin To Net: NetName=A_I2C_SDA Pin=U*-43
+Added Net: Name=A_I2C_SDA
+Added Pin To Net: NetName=A_INT1 Pin=U*-18
+Added Net: Name=A_INT1
+Added Pin To Net: NetName=A_INT2 Pin=U*-17
+Added Net: Name=A_INT2
+Added Pin To Net: NetName=ADC1_INN1 Pin=U*-10
+Added Net: Name=ADC1_INN1
+Added Pin To Net: NetName=ADC1_INP1 Pin=U*-11
+Added Net: Name=ADC1_INP1
+Added Pin To Net: NetName=ADC1_INP4 Pin=U*-12
+Added Net: Name=ADC1_INP4
+Added Pin To Net: NetName=ADC1_INP15 Pin=U*-13
+Added Net: Name=ADC1_INP15
+Added Pin To Net: NetName=BOOT0 Pin=U*-44
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BOOT1 Pin=U*-45
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=DAC1_OUT1 Pin=U*-14
+Added Net: Name=DAC1_OUT1
+Added Pin To Net: NetName=DAC1_OUT2 Pin=U*-15
+Added Net: Name=DAC1_OUT2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=U*-8
+Added Pin To Net: NetName=GND Pin=U*-23
+Added Pin To Net: NetName=GND Pin=U*-35
+Added Pin To Net: NetName=GND Pin=U*-47
+Added Net: Name=GND
+Added Pin To Net: NetName=JTDI Pin=U*-38
+Added Net: Name=JTDI
+Added Pin To Net: NetName=JTDO Pin=U*-39
+Added Net: Name=JTDO
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U*-22
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-1
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U*-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NRST Pin=U*-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC32_IN Pin=U*-3
+Added Net: Name=OSC32_IN
+Added Pin To Net: NetName=OSC32_OUT Pin=U*-4
+Added Net: Name=OSC32_OUT
+Added Pin To Net: NetName=OSC_IN Pin=U*-5
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=U*-6
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=PA6 Pin=U*-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=RX_CAN Pin=U*-41
+Added Net: Name=RX_CAN
+Added Pin To Net: NetName=SPI_CLK Pin=U*-26
+Added Net: Name=SPI_CLK
+Added Pin To Net: NetName=SPI_CS0 Pin=U*-29
+Added Net: Name=SPI_CS0
+Added Pin To Net: NetName=SPI_MISO Pin=U*-27
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=U*-28
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SWCLK Pin=U*-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U*-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TX_CAN Pin=U*-40
+Added Net: Name=TX_CAN
+Added Pin To Net: NetName=UART_RX Pin=U*-31
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=U*-30
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=USB_N Pin=U*-32
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=U*-33
+Added Net: Name=USB_P
+Added Pin To Net: NetName=Z_INTA Pin=U*-21
+Added Net: Name=Z_INTA
+Added Pin To Net: NetName=Z_INTB Pin=U*-20
+Added Net: Name=Z_INTB
+Added Pin To Net: NetName=Z_nRESET Pin=U*-19
+Added Net: Name=Z_nRESET
+Added Pin To Net: NetName=Z_SPI_nCS Pin=U*-25
+Added Net: Name=Z_SPI_nCS
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component C? 4.7uF
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component C? 4.7uF
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main Member=Component D? SMD_0603_LED
+Added Member To Class: ClassName=Main Member=Component R? 165
+Added Member To Class: ClassName=Main Member=Component U* STM32H503
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

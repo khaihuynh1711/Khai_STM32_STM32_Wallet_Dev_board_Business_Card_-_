@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Member From Class: ClassName=Main Member=R1
+Added Component: Designator=J1(Custom_header)
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component J1 Custom_Mount_Header

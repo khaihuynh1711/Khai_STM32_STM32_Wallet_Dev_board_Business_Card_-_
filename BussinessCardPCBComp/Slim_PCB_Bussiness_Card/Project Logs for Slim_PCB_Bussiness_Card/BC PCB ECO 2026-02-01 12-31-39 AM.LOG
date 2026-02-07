@@ -1,0 +1,14 @@
+Added Component: Designator=J1(Custom_header)
+Added Pin To Net: NetName=PA4 Pin=J1-1
+Added Pin To Net: NetName=PA3 Pin=J1-2
+Added Pin To Net: NetName=PA2 Pin=J1-3
+Added Pin To Net: NetName=PA0 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=PB7 Pin=J1-6
+Added Pin To Net: NetName=PB6 Pin=J1-7
+Added Pin To Net: NetName=PB5 Pin=J1-8
+Added Pin To Net: NetName=PB4 Pin=J1-9
+Added Pin To Net: NetName=+3V3 Pin=J1-10
+Added Pin To Net: NetName=+5 Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Member To Class: ClassName=Main Member=Component J1 Custom_Mount_Header

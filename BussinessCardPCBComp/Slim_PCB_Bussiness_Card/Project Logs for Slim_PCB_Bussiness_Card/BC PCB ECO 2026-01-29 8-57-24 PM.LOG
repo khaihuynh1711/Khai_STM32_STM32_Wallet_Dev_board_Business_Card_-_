@@ -1,0 +1,43 @@
+Added Component: Designator=B?(PTS540JM035SMTR LFS)
+Added Component: Designator=C?(0402 Capacitor)
+Added Component: Designator=D?(0603 LED)
+Added Component: Designator=R?(0402 Resistor)
+Added Component: Designator=R?(0402 Resistor)
+Added Pin To Net: NetName=BOOT0 Pin=B?-1
+Added Pin To Net: NetName=NRST Pin=B?-1
+Added Pin To Net: NetName=BOOT0 Pin=B?-2
+Added Pin To Net: NetName=NRST Pin=B?-2
+Added Pin To Net: NetName=+3V3 Pin=B?-3
+Added Pin To Net: NetName=GND Pin=B?-3
+Added Pin To Net: NetName=+3V3 Pin=B?-4
+Added Pin To Net: NetName=GND Pin=B?-4
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NRST Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=BOOT0 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NRST Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=STLinkV3-1
+Added Pin To Net: NetName=SWDIO Pin=STLinkV3-2
+Added Pin To Net: NetName=GND Pin=STLinkV3-3
+Added Pin To Net: NetName=SWCLK Pin=STLinkV3-4
+Added Pin To Net: NetName=GND Pin=STLinkV3-5
+Added Pin To Net: NetName=JTDO Pin=STLinkV3-6
+Added Pin To Net: NetName=JTDI Pin=STLinkV3-8
+Added Pin To Net: NetName=GND Pin=STLinkV3-9
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component D? DFLS130L-7
+Added Member To Class: ClassName=Main Member=Component R? 5.1k
+Added Member To Class: ClassName=Main Member=Component R? 5.1k
+Added Member To Class: ClassName=Main Member=Component R? 5.1k

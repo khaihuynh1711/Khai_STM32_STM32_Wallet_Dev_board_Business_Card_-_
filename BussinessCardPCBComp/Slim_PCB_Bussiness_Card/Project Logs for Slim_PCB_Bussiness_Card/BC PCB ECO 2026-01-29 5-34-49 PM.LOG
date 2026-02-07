@@ -1,0 +1,73 @@
+Added Component: Designator=C?(0402 Capacitor)
+Added Component: Designator=C?(0402 Capacitor)
+Added Component: Designator=C?(0402 Capacitor)
+Added Component: Designator=C?(0402 Capacitor)
+Added Component: Designator=R?(0402 Resistor)
+Added Component: Designator=R?(0402 Resistor)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=PA4 Pin=J1-2
+Added Pin To Net: NetName=PA3 Pin=J1-3
+Added Pin To Net: NetName=PA2 Pin=J1-4
+Added Pin To Net: NetName=PA0 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=PB7 Pin=J1-7
+Added Pin To Net: NetName=PB5 Pin=J1-8
+Added Pin To Net: NetName=PB4 Pin=J1-9
+Added Pin To Net: NetName=PB1 Pin=J1-10
+Added Pin To Net: NetName=+3V3 Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=USB_P Pin=J?-A6
+Added Pin To Net: NetName=USB_N Pin=J?-A7
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=GND Pin=J?-B1
+Added Pin To Net: NetName=USB_P Pin=J?-B6
+Added Pin To Net: NetName=USB_N Pin=J?-B7
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3V3 Pin=U?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-4
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=D?-1
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=U?-3
+Added Net: Name=+5
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=J?-A4
+Added Pin To Net: NetName=NetD?_2 Pin=J?-A9
+Added Pin To Net: NetName=NetD?_2 Pin=J?-B4
+Added Pin To Net: NetName=NetD?_2 Pin=J?-B9
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=R?-1
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_B5 Pin=R?-1
+Added Net: Name=NetJ?_B5
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component B? PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component C? 1uF
+Added Member To Class: ClassName=Main Member=Component J? UJ32-C-V-G-FMT-3-P24
+Added Member To Class: ClassName=Main Member=Component R? 5.1k
+Added Member To Class: ClassName=Main Member=Component R? 5.1k
+Added Rule: Name=Schematic Supply Nets_1

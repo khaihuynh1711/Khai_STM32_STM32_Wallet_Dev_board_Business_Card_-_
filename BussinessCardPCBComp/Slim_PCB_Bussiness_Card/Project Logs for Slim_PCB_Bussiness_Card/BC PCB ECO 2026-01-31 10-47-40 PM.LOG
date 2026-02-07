@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3V3 Pin=STLinkV3-1
+Removed Pin From Net: NetName=SWDIO Pin=STLinkV3-2
+Removed Pin From Net: NetName=GND Pin=STLinkV3-3
+Removed Pin From Net: NetName=SWCLK Pin=STLinkV3-4
+Removed Pin From Net: NetName=GND Pin=STLinkV3-5
+Removed Pin From Net: NetName=JTDO Pin=STLinkV3-6
+Removed Pin From Net: NetName=JTDI Pin=STLinkV3-8
+Removed Pin From Net: NetName=GND Pin=STLinkV3-9
+Added Pin To Net: NetName=SWDIO Pin=STLinkV3-1
+Added Pin To Net: NetName=+3V3 Pin=STLinkV3-2
+Added Pin To Net: NetName=SWCLK Pin=STLinkV3-3
+Added Pin To Net: NetName=GND Pin=STLinkV3-4
+Added Pin To Net: NetName=JTDO Pin=STLinkV3-5
+Added Pin To Net: NetName=GND Pin=STLinkV3-6
+Added Pin To Net: NetName=JTDI Pin=STLinkV3-7
+Added Pin To Net: NetName=GND Pin=STLinkV3-10

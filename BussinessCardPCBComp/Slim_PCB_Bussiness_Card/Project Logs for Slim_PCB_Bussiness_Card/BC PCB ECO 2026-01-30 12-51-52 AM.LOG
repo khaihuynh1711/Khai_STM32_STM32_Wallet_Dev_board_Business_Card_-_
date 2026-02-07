@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=BOOT1 NewDesignator=BUTTON1
+Change Component Designator: OldDesignator=BOOT2 NewDesignator=BUTTON2
+Change Component Designator: OldDesignator=BOOT3 NewDesignator=BUTTON3
+Added Class: Name=USB 90
+Removed Member From Class: ClassName=USB1 90 Member=USB1

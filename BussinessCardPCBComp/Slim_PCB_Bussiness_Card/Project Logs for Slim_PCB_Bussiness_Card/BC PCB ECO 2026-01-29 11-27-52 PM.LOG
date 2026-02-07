@@ -1,0 +1,8 @@
+Added Component: Designator=D7(USBLC6-2SC6)
+Added Pin To Net: NetName=USB_N Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=USB_P Pin=D7-3
+Added Pin To Net: NetName=USB_P Pin=D7-4
+Added Pin To Net: NetName=+5 Pin=D7-5
+Added Pin To Net: NetName=USB_N Pin=D7-6
+Added Member To Class: ClassName=Main Member=Component D7 USBLC6-2SC6

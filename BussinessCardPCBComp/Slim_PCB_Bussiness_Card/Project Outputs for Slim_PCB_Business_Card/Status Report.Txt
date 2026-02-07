@@ -1,0 +1,43 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Slim_PCB_Business_Card.PrjPcb]
+   Generated File[BC.GTO]
+   Generated File[BC.GTP]
+   Generated File[BC.GTS]
+   Generated File[BC.GTL]
+   Generated File[BC.G1]
+   Generated File[BC.G2]
+   Generated File[BC.GBL]
+   Generated File[BC.GBS]
+   Generated File[BC.GBP]
+   Generated File[BC.GBO]
+   Generated File[BC.GM1]
+   Generated File[BC.GM2]
+   Generated File[BC.GM3]
+   Generated File[BC.GM5]
+   Generated File[BC.GM13]
+   Generated File[BC.GM14]
+   Generated File[BC.GM15]
+   Generated File[BC.GM16]
+   Generated File[BC.GM20]
+   Generated File[BC.GM21]
+   Generated File[BC.GM23]
+   Generated File[BC.GM24]
+   Generated File[BC.GKO]
+   Generated File[BC.GPT]
+   Generated File[BC.GPB]
+   Generated File[BC.1]
+   Generated File[BC.3]
+   Generated File[BC.GML]
+   Generated File[BC.2]
+   Generated File[BC.GD1]
+   Generated File[BC.GG1]
+   Generated File[BC.GM]
+   Generated File[BC.EXTREP]
+   Generated File[BC.REP]
+
+
+Files Generated   : 34
+Documents Printed : 0
+
+Finished Output Generation At 6:59:02 PM On 2026-02-06

@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=+3V3 Pin=C?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=C?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=D?-1
+Removed Member From Class: ClassName=Main Member=C?
+Removed Member From Class: ClassName=Main Member=D?
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C1(0402 Capacitor)
+Added Component: Designator=C2(0402 Capacitor)
+Added Component: Designator=C3(0402 Capacitor)
+Added Component: Designator=C4(0402 Capacitor)
+Added Component: Designator=C5(0402 Capacitor)
+Added Component: Designator=C6(0402 Capacitor)
+Added Component: Designator=C7(0402 Capacitor)
+Added Component: Designator=C8(0402 Capacitor)
+Added Component: Designator=C9(0402 Capacitor)
+Added Component: Designator=C10(0402 Capacitor)
+Added Component: Designator=C11(0402 Capacitor)
+Added Component: Designator=X1(PTS540JM035SMTR LFS)
+Added Component: Designator=X2(PTS540JM035SMTR LFS)
+Added Component: Designator=X3(PTS540JM035SMTR LFS)
+Added Component: Designator=X4(PTS540JM035SMTR LFS)
+Added Component: Designator=X5(PTS540JM035SMTR LFS)
+Added Component: Designator=X6(PTS540JM035SMTR LFS)
+Added Component: Designator=X7(PTS540JM035SMTR LFS)
+Added Component: Designator=X8(PTS540JM035SMTR LFS)
+Added Component: Designator=Y1(FP-ABS07L-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "55kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.015inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.126inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ABS07L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "55kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.059inch"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(CX2016DB16000D0WZRC1)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=OSC32_IN Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=OSC32_OUT Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=OSC_IN Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=OSC_OUT Pin=C8-2
+Added Pin To Net: NetName=+3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+3V3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=OSC32_OUT Pin=Y1-1
+Added Pin To Net: NetName=OSC32_IN Pin=Y1-2
+Added Pin To Net: NetName=OSC_IN Pin=Y2-1
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=OSC_OUT Pin=Y2-3
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-46
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U1-22
+Added Net: Name=NetC11_1
+Added Member To Class: ClassName=Main Member=Component C1 20pF
+Added Member To Class: ClassName=Main Member=Component C2 4.7uF
+Added Member To Class: ClassName=Main Member=Component C3 20pF
+Added Member To Class: ClassName=Main Member=Component C4 0.1uF
+Added Member To Class: ClassName=Main Member=Component C5 0.1uF
+Added Member To Class: ClassName=Main Member=Component C6 0.1uF
+Added Member To Class: ClassName=Main Member=Component C7 20pF
+Added Member To Class: ClassName=Main Member=Component C8 20pF
+Added Member To Class: ClassName=Main Member=Component C9 0.1uF
+Added Member To Class: ClassName=Main Member=Component C10 0.1uF
+Added Member To Class: ClassName=Main Member=Component C11 4.7uF
+Added Member To Class: ClassName=Main Member=Component X1 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component X2 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component X3 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component X4 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component X5 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component X6 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component X7 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component X8 PTS540JM035SMTR LFS
+Added Member To Class: ClassName=Main Member=Component Y1 ABS07L-32.768KHZ-T
+Added Member To Class: ClassName=Main Member=Component Y2 CX2016DB16000D0WZRC1

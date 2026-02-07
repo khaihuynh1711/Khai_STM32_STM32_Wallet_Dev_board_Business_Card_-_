@@ -1,0 +1,50 @@
+Added Component: Designator=D17(PCBComponent_1)
+Added Component: Designator=D18(SLESD8LL3.3C)
+Added Component: Designator=D19(SLESD8LL3.3C)
+Added Component: Designator=D20(SLESD8LL3.3C)
+Added Component: Designator=D21(SLESD8LL3.3C)
+Added Component: Designator=D22(SLESD8LL3.3C)
+Added Component: Designator=D23(SLESD8LL3.3C)
+Added Component: Designator=D24(SLESD8LL3.3C)
+Added Component: Designator=D25(SLESD8LL3.3C)
+Added Component: Designator=J1(Custom_header)
+Added Pin To Net: NetName=+3V3 Pin=D17-1
+Added Pin To Net: NetName=GND Pin=D17-2
+Added Pin To Net: NetName=PA4 Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Pin To Net: NetName=PA3 Pin=D19-1
+Added Pin To Net: NetName=GND Pin=D19-2
+Added Pin To Net: NetName=PA2 Pin=D20-1
+Added Pin To Net: NetName=GND Pin=D20-2
+Added Pin To Net: NetName=PA0 Pin=D21-1
+Added Pin To Net: NetName=GND Pin=D21-2
+Added Pin To Net: NetName=PB7 Pin=D22-1
+Added Pin To Net: NetName=GND Pin=D22-2
+Added Pin To Net: NetName=PB6 Pin=D23-1
+Added Pin To Net: NetName=GND Pin=D23-2
+Added Pin To Net: NetName=PB5 Pin=D24-1
+Added Pin To Net: NetName=GND Pin=D24-2
+Added Pin To Net: NetName=PB4 Pin=D25-1
+Added Pin To Net: NetName=GND Pin=D25-2
+Added Pin To Net: NetName=PA4 Pin=J1-1
+Added Pin To Net: NetName=PA3 Pin=J1-2
+Added Pin To Net: NetName=PA2 Pin=J1-3
+Added Pin To Net: NetName=PA0 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=PB7 Pin=J1-6
+Added Pin To Net: NetName=PB6 Pin=J1-7
+Added Pin To Net: NetName=PB5 Pin=J1-8
+Added Pin To Net: NetName=PB4 Pin=J1-9
+Added Pin To Net: NetName=+3V3 Pin=J1-10
+Added Pin To Net: NetName=+5 Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Member To Class: ClassName=Main Member=Component D17 DFLS130L-7
+Added Member To Class: ClassName=Main Member=Component D18 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component D19 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component D20 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component D21 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component D22 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component D23 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component D24 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component D25 SLESD8LL3.3C
+Added Member To Class: ClassName=Main Member=Component J1 Custom_Mount_Header
